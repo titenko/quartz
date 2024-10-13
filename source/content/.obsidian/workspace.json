@@ -162,6 +162,8 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "category-folder/index.md",
+    "index.md",
     "MacOS/Что такое SIP и как его отключить?.md",
     "MacOS/Ошибки при установке приложений на Мак.md",
     "MacOS/Отключение функции Gatekeeper в macOS.md",
@@ -189,8 +191,6 @@
     "files/pkg2app_v1_1_0.dmg",
     "files",
     "category-folder/Some note.md",
-    "category-folder/index.md",
-    "index.md",
     "category-folder"
   ]
 }
