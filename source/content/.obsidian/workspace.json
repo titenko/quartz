@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
+                "file": "index.md"
               }
             }
           }
@@ -151,19 +151,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "category-folder/index.md",
+    "MacOS/Что такое SIP и как его отключить?.md",
+    "MacOS/Ошибки при установке приложений на Мак.md",
+    "MacOS/Отключение функции Gatekeeper в macOS.md",
+    "MacOS/Добавление цифровой подписи.md",
+    "MacOS",
+    "MacOs/Что такое SIP и как его отключить?.md",
+    "MacOs/Ошибки при установке приложений на Мак.md",
+    "MacOs/Отключение функции Gatekeeper в macOS.md",
+    "MacOs/Добавление цифровой подписи.md",
+    "MacOs",
+    "Linux/Без названия.md",
+    "Linux",
+    "Img/MacOS/1618117995_terminal.png",
+    "Img/MacOS/1618141253_restart.png",
+    "Img/MacOS/1618118001_utilities.png",
+    "Img/MacOS/1585155160_neozhidannoe-zavershenie-prilozhenija.png",
+    "Img/MacOS/1647079055_1647079055273.png",
+    "Img/MacOS/1618036587_sip.png",
+    "Img/MacOS/1629181379_earth.png",
+    "Img/MacOS/1580741673_2.png",
+    "Img/MacOS/1580742169_3.png",
+    "Img/MacOS/1580741630_1.png",
+    "Img/MacOS",
+    "Img",
+    "files/pkg2app_v1_1_0.dmg",
+    "files",
     "category-folder/Some note.md",
+    "category-folder/index.md",
     "index.md",
     "category-folder"
   ]
