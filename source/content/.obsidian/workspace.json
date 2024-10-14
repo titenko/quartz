@@ -128,13 +128,21 @@
                 "file": "index.md"
               }
             }
+          },
+          {
+            "id": "2d5ee428eec6c94d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,9 +155,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Windows/soft/QuickLook.md",
+    "index.md",
     "MacOS/soft/Magnet.md",
+    "Img/Windows/apps.24917.14405803611253731.3006f567-a4f6-43d6-95fb-9033fa42fa41.jpeg",
+    "Img/Windows",
+    "Windows/articles/Без названия.md",
+    "Windows/soft",
+    "Windows/articles",
+    "Windows",
     "MacOS/soft",
     "MacOS/articles/Что такое SIP и как его отключить?.md",
     "MacOS/articles/Ошибки при установке приложений на Мак.md",
@@ -160,7 +176,6 @@
     "Img/1649478972_1.jpg",
     "category-folder/index.md",
     "category-folder/Some note.md",
-    "index.md",
     "MacOS/Что такое SIP и как его отключить?.md",
     "MacOS/Ошибки при установке приложений на Мак.md",
     "MacOS/Отключение функции Gatekeeper в macOS.md",
@@ -180,11 +195,6 @@
     "Img/MacOS/1647079055_1647079055273.png",
     "Img/MacOS/1618036587_sip.png",
     "Img/MacOS/1629181379_earth.png",
-    "Img/MacOS/1580741673_2.png",
-    "Img/MacOS",
-    "Img",
-    "files/pkg2app_v1_1_0.dmg",
-    "files",
-    "category-folder"
+    "Img/MacOS"
   ]
 }
