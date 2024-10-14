@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/soft/Без названия.md",
+                "file": "Obsidian/plugins/obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/soft/Без названия.md",
+                "file": "Obsidian/plugins/obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/soft/Без названия.md",
+                "file": "Obsidian/plugins/obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/soft/Без названия.md"
+                "file": "Obsidian/plugins/obsidian-git.md"
               }
             }
           },
@@ -155,10 +155,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Linux/articles/Без названия.md",
     "Linux/soft/Без названия.md",
+    "Obsidian/plugins/obsidian-git.md",
+    "Obsidian/plugins",
+    "Obsidian",
+    "Linux/articles/Без названия.md",
     "index.md",
     "Linux/soft",
     "Linux/articles",
@@ -184,12 +187,10 @@
     "MacOS/Ошибки при установке приложений на Мак.md",
     "MacOS/Отключение функции Gatekeeper в macOS.md",
     "MacOS/Добавление цифровой подписи.md",
-    "MacOS",
     "MacOs/Что такое SIP и как его отключить?.md",
     "MacOs/Ошибки при установке приложений на Мак.md",
     "MacOs/Отключение функции Gatekeeper в macOS.md",
     "MacOs/Добавление цифровой подписи.md",
-    "MacOs",
     "Img/MacOS/1618117995_terminal.png",
     "Img/MacOS/1618141253_restart.png",
     "Img/MacOS/1618118001_utilities.png",
