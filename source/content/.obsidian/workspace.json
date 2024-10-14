@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MacOS/soft/Magnet.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MacOS/soft/Magnet.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MacOS/soft/Magnet.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MacOS/soft/Magnet.md"
+                "file": "index.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "MacOS/soft/Magnet.md",
     "Windows/soft/QuickLook.md",
     "index.md",
-    "MacOS/soft/Magnet.md",
     "Img/Windows/apps.24917.14405803611253731.3006f567-a4f6-43d6-95fb-9033fa42fa41.jpeg",
     "Img/Windows",
     "Windows/articles/Без названия.md",
