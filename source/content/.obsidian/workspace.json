@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cross-platform/LocalSend.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cross-platform/LocalSend.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cross-platform/LocalSend.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cross-platform/LocalSend.md"
+                "file": "index.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Img/LocalSend.png",
-    "Без названия.md",
     "cross-platform/LocalSend.md",
     "index.md",
+    "Img/LocalSend.png",
+    "Без названия.md",
     "cross-platform",
     "Img/logo-512.aU8Z13Dx.png",
     "MacOS/soft/OpenCore Legacy Patcher.md",
@@ -200,7 +200,6 @@
     "MacOs/Отключение функции Gatekeeper в macOS.md",
     "MacOs/Добавление цифровой подписи.md",
     "Img/MacOS/1618117995_terminal.png",
-    "Img/MacOS/1618141253_restart.png",
-    "Img/MacOS/1618118001_utilities.png"
+    "Img/MacOS/1618141253_restart.png"
   ]
 }
