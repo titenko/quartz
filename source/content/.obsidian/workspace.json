@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "cross-platform/LocalSend.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "cross-platform/LocalSend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "cross-platform/LocalSend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "cross-platform/LocalSend.md"
               }
             }
           },
@@ -157,8 +157,12 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "MacOS/soft/OpenCore Legacy Patcher.md",
+    "Без названия.md",
+    "cross-platform/LocalSend.md",
     "index.md",
+    "cross-platform",
+    "Img/logo-512.aU8Z13Dx.png",
+    "MacOS/soft/OpenCore Legacy Patcher.md",
     "Img/MacOS/corepatcher1.png",
     "Img/MacOS/OpenCorePatcher.png",
     "Obsidian/plugins/obsidian-git.md",
@@ -182,7 +186,6 @@
     "MacOS/articles/Ошибки при установке приложений на Мак.md",
     "MacOS/articles/Отключение функции Gatekeeper в macOS.md",
     "MacOS/articles/Добавление цифровой подписи.md",
-    "MacOS/articles",
     "Img/MacOS/1649478972_1.jpg",
     "Img/1649478972_1.jpg",
     "category-folder/index.md",
@@ -197,7 +200,6 @@
     "MacOs/Добавление цифровой подписи.md",
     "Img/MacOS/1618117995_terminal.png",
     "Img/MacOS/1618141253_restart.png",
-    "Img/MacOS/1618118001_utilities.png",
-    "Img/MacOS/1585155160_neozhidannoe-zavershenie-prilozhenija.png"
+    "Img/MacOS/1618118001_utilities.png"
   ]
 }
