@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/plugins/obsidian-git.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/plugins/obsidian-git.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/plugins/obsidian-git.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/plugins/obsidian-git.md"
+                "file": "index.md"
               }
             }
           },
@@ -157,12 +157,16 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Linux/soft/Без названия.md",
+    "MacOS/soft/OpenCore Legacy Patcher.md",
+    "index.md",
+    "Img/MacOS/corepatcher1.png",
+    "Img/MacOS/OpenCorePatcher.png",
     "Obsidian/plugins/obsidian-git.md",
+    "Img/MacOS/homepage.png",
+    "Linux/soft/Без названия.md",
     "Obsidian/plugins",
     "Obsidian",
     "Linux/articles/Без названия.md",
-    "index.md",
     "Linux/soft",
     "Linux/articles",
     "MacOS/soft/Magnet.md",
@@ -194,9 +198,6 @@
     "Img/MacOS/1618117995_terminal.png",
     "Img/MacOS/1618141253_restart.png",
     "Img/MacOS/1618118001_utilities.png",
-    "Img/MacOS/1585155160_neozhidannoe-zavershenie-prilozhenija.png",
-    "Img/MacOS/1647079055_1647079055273.png",
-    "Img/MacOS/1618036587_sip.png",
-    "Img/MacOS/1629181379_earth.png"
+    "Img/MacOS/1585155160_neozhidannoe-zavershenie-prilozhenija.png"
   ]
 }
