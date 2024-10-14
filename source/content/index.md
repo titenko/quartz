@@ -3,7 +3,7 @@ title: Navigation
 ---
 ---
 
-### MacOS
+# MacOS
 
 **Статьи:**
 
@@ -20,7 +20,7 @@ title: Navigation
 
 ---
 
-### Windows
+# Windows
 
 **Статьи:**
 
@@ -31,7 +31,7 @@ title: Navigation
 
 ---
 
-### Linux
+# Linux
 
 **Статьи:**
 
