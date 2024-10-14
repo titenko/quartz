@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "MacOS/soft/Sensei.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "MacOS/soft/Sensei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "MacOS/soft/Sensei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "MacOS/soft/Sensei.md"
               }
             }
           },
@@ -157,9 +157,13 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "MacOS/soft/Magnet.md",
+    "MacOS/soft/Sensei.md",
+    "index.md",
+    "Img/MacOS/1593847000_1.png",
+    "MacOS/articles/13 вариантов загрузки Mac для особых случаев.md",
     "cross-platform/Rambox.md",
     "cross-platform/Ferdium.md",
-    "index.md",
     "cross-platform/LocalSend.md",
     "Img/LocalSend.png",
     "Без названия.md",
@@ -176,7 +180,6 @@
     "Linux/articles/Без названия.md",
     "Linux/soft",
     "Linux/articles",
-    "MacOS/soft/Magnet.md",
     "Windows/soft/QuickLook.md",
     "Img/Windows/apps.24917.14405803611253731.3006f567-a4f6-43d6-95fb-9033fa42fa41.jpeg",
     "Img/Windows",
@@ -198,10 +201,6 @@
     "MacOS/Отключение функции Gatekeeper в macOS.md",
     "MacOS/Добавление цифровой подписи.md",
     "MacOs/Что такое SIP и как его отключить?.md",
-    "MacOs/Ошибки при установке приложений на Мак.md",
-    "MacOs/Отключение функции Gatekeeper в macOS.md",
-    "MacOs/Добавление цифровой подписи.md",
-    "Img/MacOS/1618117995_terminal.png",
-    "Img/MacOS/1618141253_restart.png"
+    "Img/MacOS/1618117995_terminal.png"
   ]
 }
