@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MacOS/soft/Sensei.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MacOS/soft/Sensei.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MacOS/soft/Sensei.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MacOS/soft/Sensei.md"
+                "file": "index.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "MacOS/soft/Magnet.md",
-    "MacOS/soft/Sensei.md",
+    "MacOS/soft/PopClip.md",
     "index.md",
+    "MacOS/soft/Sensei.md",
+    "MacOS/soft/Magnet.md",
     "Img/MacOS/1593847000_1.png",
     "MacOS/articles/13 вариантов загрузки Mac для особых случаев.md",
     "cross-platform/Rambox.md",
