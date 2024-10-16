@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Windows/soft/AutoLogon Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Windows/soft/AutoLogon Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Windows/soft/AutoLogon Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Windows/soft/AutoLogon Windows.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "![[AutoLogonUtil.zip]].md",
     "Windows/soft/AutoLogon Windows.md",
     "index.md",
+    "files/AutoLogonUtil.zip",
     "files/autologon_win.zip",
     "files/autologon.zip",
     "files/AutoLogon.zip",
@@ -196,7 +198,6 @@
     "Obsidian",
     "Linux/articles/Без названия.md",
     "Linux/soft",
-    "Linux/articles",
     "Windows/articles/Без названия.md",
     "MacOS/articles/Что такое SIP и как его отключить?.md",
     "MacOS/articles/Ошибки при установке приложений на Мак.md",
