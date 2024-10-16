@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "cross-platform/Ferdium.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "cross-platform/Ferdium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "cross-platform/Ferdium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "cross-platform/Ferdium.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,24 +158,31 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "MacOS/soft/PopClip.md",
+    "Obsidian/plugins/remotely-sync.md",
+    "Obsidian/plugins/obsidian-git.md",
+    "MacOS/articles/13 вариантов загрузки Mac для особых случаев.md",
+    "cache/mac_boot_options_13.jpg",
+    "cache/mac_boot_options_5.jpg",
+    "cache/mac_boot_options_3.jpg",
+    "cache/mac_boot_options_11.jpg",
+    "cache/mac_boot_options_10.jpg",
+    "cache/mac_boot_options_9.jpg",
+    "cache/mac_boot_options_12.jpg",
+    "cache/mac_boot_options_8.jpg",
+    "cache/mac_boot_options_6.jpg",
+    "cache/mac_boot_options_4.jpg",
     "index.md",
+    "cache",
+    "Папка",
+    "MacOS/soft/PopClip.md",
     "MacOS/soft/Sensei.md",
     "MacOS/soft/Magnet.md",
-    "Img/MacOS/1593847000_1.png",
-    "MacOS/articles/13 вариантов загрузки Mac для особых случаев.md",
     "cross-platform/Rambox.md",
     "cross-platform/Ferdium.md",
     "cross-platform/LocalSend.md",
-    "Img/LocalSend.png",
     "Без названия.md",
     "cross-platform",
-    "Img/logo-512.aU8Z13Dx.png",
     "MacOS/soft/OpenCore Legacy Patcher.md",
-    "Img/MacOS/corepatcher1.png",
-    "Img/MacOS/OpenCorePatcher.png",
-    "Obsidian/plugins/obsidian-git.md",
-    "Img/MacOS/homepage.png",
     "Linux/soft/Без названия.md",
     "Obsidian/plugins",
     "Obsidian",
@@ -182,26 +190,19 @@
     "Linux/soft",
     "Linux/articles",
     "Windows/soft/QuickLook.md",
-    "Img/Windows/apps.24917.14405803611253731.3006f567-a4f6-43d6-95fb-9033fa42fa41.jpeg",
     "Img/Windows",
     "Windows/articles/Без названия.md",
     "Windows/soft",
     "Windows/articles",
-    "Windows",
-    "MacOS/soft",
     "MacOS/articles/Что такое SIP и как его отключить?.md",
     "MacOS/articles/Ошибки при установке приложений на Мак.md",
     "MacOS/articles/Отключение функции Gatekeeper в macOS.md",
     "MacOS/articles/Добавление цифровой подписи.md",
-    "Img/MacOS/1649478972_1.jpg",
-    "Img/1649478972_1.jpg",
     "category-folder/index.md",
     "category-folder/Some note.md",
     "MacOS/Что такое SIP и как его отключить?.md",
     "MacOS/Ошибки при установке приложений на Мак.md",
     "MacOS/Отключение функции Gatekeeper в macOS.md",
-    "MacOS/Добавление цифровой подписи.md",
-    "MacOs/Что такое SIP и как его отключить?.md",
-    "Img/MacOS/1618117995_terminal.png"
+    "MacOS/Добавление цифровой подписи.md"
   ]
 }
