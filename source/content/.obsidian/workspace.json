@@ -158,8 +158,12 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Windows/soft/WinUtil.md",
+    "Windows/soft/AutoLogon Windows.md",
     "index.md",
+    "files/autologon_win.zip",
+    "files/autologon.zip",
+    "files/AutoLogon.zip",
+    "Windows/soft/WinUtil.md",
     "Windows/soft/UniGetUI.md",
     "Windows/soft/WingetUI.md",
     "Img/Windows/Title-Screen.png",
@@ -193,15 +197,11 @@
     "Linux/articles/Без названия.md",
     "Linux/soft",
     "Linux/articles",
-    "Img/Windows",
     "Windows/articles/Без названия.md",
-    "Windows/soft",
-    "Windows/articles",
     "MacOS/articles/Что такое SIP и как его отключить?.md",
     "MacOS/articles/Ошибки при установке приложений на Мак.md",
     "MacOS/articles/Отключение функции Gatekeeper в macOS.md",
     "MacOS/articles/Добавление цифровой подписи.md",
-    "category-folder/index.md",
-    "category-folder/Some note.md"
+    "category-folder/index.md"
   ]
 }
