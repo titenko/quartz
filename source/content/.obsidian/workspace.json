@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cross-platform/Ferdium.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cross-platform/Ferdium.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cross-platform/Ferdium.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cross-platform/Ferdium.md"
+                "file": "index.md"
               }
             }
           },
@@ -158,6 +158,14 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Windows/soft/WinUtil.md",
+    "index.md",
+    "Windows/soft/UniGetUI.md",
+    "Windows/soft/WingetUI.md",
+    "Img/Windows/Title-Screen.png",
+    "Img/Windows/wingetUI-1-1024x1024.jpg",
+    "Windows/soft/QuickLook.md",
+    "cross-platform/Ferdium.md",
     "Obsidian/plugins/remotely-sync.md",
     "Obsidian/plugins/obsidian-git.md",
     "MacOS/articles/13 вариантов загрузки Mac для особых случаев.md",
@@ -169,16 +177,12 @@
     "cache/mac_boot_options_9.jpg",
     "cache/mac_boot_options_12.jpg",
     "cache/mac_boot_options_8.jpg",
-    "cache/mac_boot_options_6.jpg",
-    "cache/mac_boot_options_4.jpg",
-    "index.md",
     "cache",
     "Папка",
     "MacOS/soft/PopClip.md",
     "MacOS/soft/Sensei.md",
     "MacOS/soft/Magnet.md",
     "cross-platform/Rambox.md",
-    "cross-platform/Ferdium.md",
     "cross-platform/LocalSend.md",
     "Без названия.md",
     "cross-platform",
@@ -189,7 +193,6 @@
     "Linux/articles/Без названия.md",
     "Linux/soft",
     "Linux/articles",
-    "Windows/soft/QuickLook.md",
     "Img/Windows",
     "Windows/articles/Без названия.md",
     "Windows/soft",
@@ -199,10 +202,6 @@
     "MacOS/articles/Отключение функции Gatekeeper в macOS.md",
     "MacOS/articles/Добавление цифровой подписи.md",
     "category-folder/index.md",
-    "category-folder/Some note.md",
-    "MacOS/Что такое SIP и как его отключить?.md",
-    "MacOS/Ошибки при установке приложений на Мак.md",
-    "MacOS/Отключение функции Gatekeeper в macOS.md",
-    "MacOS/Добавление цифровой подписи.md"
+    "category-folder/Some note.md"
   ]
 }
