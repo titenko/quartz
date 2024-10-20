@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Windows/soft/QuickLook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "QuickLook"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Windows/soft/QuickLook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для index"
+              "title": "Обратные ссылки для QuickLook"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Windows/soft/QuickLook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из index"
+              "title": "Исходящие ссылки из QuickLook"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Windows/soft/QuickLook.md"
               },
               "icon": "lucide-list",
-              "title": "Структура index"
+              "title": "Структура QuickLook"
             }
           },
           {
@@ -191,9 +191,11 @@
   },
   "active": "1aec6152446e44db",
   "lastOpenFiles": [
-    "Windows/soft/QuickLook.md",
     "Windows/soft/UniGetUI.md",
     "Windows/soft/WingetUI.md",
+    "index.md",
+    "files/wingetui-3-1-1.exe",
+    "Windows/soft/QuickLook.md",
     "Windows/soft/WinUtil.md",
     "Windows/soft/AutoLogon Windows.md",
     "Img/Windows/winget_9.png",
@@ -203,7 +205,6 @@
     "cross-platform/Rambox.md",
     "cross-platform/Ferdium.md",
     "![[AutoLogonUtil.zip]].md",
-    "index.md",
     "files/AutoLogonUtil.zip",
     "files/autologon_win.zip",
     "files/autologon.zip",
@@ -229,7 +230,6 @@
     "cross-platform",
     "MacOS/soft/OpenCore Legacy Patcher.md",
     "Linux/soft/Без названия.md",
-    "Obsidian/plugins",
     "Linux/articles/Без названия.md",
     "Windows/articles/Без названия.md",
     "MacOS/articles/Что такое SIP и как его отключить?.md",
