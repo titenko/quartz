@@ -43,4 +43,5 @@ tags:
 - Вы также можете установить уже загруженные приложения через «Установить из файла» в «Параметры».
 - Вы также можете установить приложение, вручную вставив его URL-адрес в поле «Получить по ссылке» в «Параметры».
 
-
+GitHub: https://github.com/mjishnu/alt-app-installer
+Скачать: [AltAppInstaller](https://github.com/mjishnu/alt-app-installer/releases/download/v2.6.9/alt.app.installer.exe)
