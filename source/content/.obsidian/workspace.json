@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/soft/Alt App Installer.md",
+                "file": "Windows/soft/AltAppInstaller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alt App Installer"
+              "title": "AltAppInstaller"
             }
           }
         ],
@@ -189,12 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "1aec6152446e44db",
   "lastOpenFiles": [
+    "index.md",
+    "Windows/soft/AltAppInstaller.md",
+    "Windows/articles/Как установить Appx и AppxBundle в Windows 11 и Windows 10.md",
     "files/alt.app.installer.exe.xz",
     "files/alt.app.installer.zip",
-    "index.md",
-    "Windows/articles/Как установить Appx и AppxBundle в Windows 11 и Windows 10.md",
     "Как установить Appx и AppxBundle в Windows 11 и Windows 10.md",
     "Windows/articles/Как установить MSIXBundle и MSIX в Windows 11 и Windows 10.md",
     "Img/Windows/install-msixbundle-powershell.png",
@@ -206,7 +207,6 @@
     "Img/Windows/confirm-uwp-apps-windows-10-sideload.png",
     "Img/Windows/allow-windows-10-appx-sideload.png",
     "Img/Windows/appx-appxbundle-install-locked.png",
-    "Windows/soft/Alt App Installer.md",
     "files/alt.app.installer.exe",
     "Img/Windows/226940878-11cfb8ca-074e-4876-8a38-142559f5116b.png",
     "Windows/soft/QuickLook.md",
@@ -227,7 +227,6 @@
     "Obsidian/plugins/remotely-sync.md",
     "Obsidian/plugins/obsidian-git.md",
     "MacOS/articles/13 вариантов загрузки Mac для особых случаев.md",
-    "cache",
     "MacOS/soft/PopClip.md",
     "MacOS/soft/Sensei.md",
     "MacOS/soft/Magnet.md",

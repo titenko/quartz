@@ -52,4 +52,4 @@ Add-AppxPackage -Path путь_к_файлу.msixbundle
 ---
 ## Установка в Alt App Installer
 
-Так же скачанный App Installer в виде APPXBundle можно установить при помощи: [[Alt App Installer]]
+Так же скачанный App Installer в виде APPXBundle можно установить при помощи: [[AltAppInstaller]]
