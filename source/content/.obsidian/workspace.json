@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/soft/QuickLook.md",
+                "file": "Windows/soft/Alt App Installer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QuickLook"
+              "title": "Alt App Installer"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/soft/QuickLook.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для QuickLook"
+              "title": "Обратные ссылки для index"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/soft/QuickLook.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из QuickLook"
+              "title": "Исходящие ссылки из index"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/soft/QuickLook.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Структура QuickLook"
+              "title": "Структура index"
             }
           },
           {
@@ -189,17 +189,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1aec6152446e44db",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "files/alt.app.installer.exe.xz",
+    "files/alt.app.installer.zip",
+    "index.md",
+    "Windows/articles/Как установить Appx и AppxBundle в Windows 11 и Windows 10.md",
+    "Как установить Appx и AppxBundle в Windows 11 и Windows 10.md",
+    "Windows/articles/Как установить MSIXBundle и MSIX в Windows 11 и Windows 10.md",
+    "Img/Windows/install-msixbundle-powershell.png",
+    "Img/Windows/download-microsoft-app-installer-appxbundle.png",
+    "Img/Windows/install-msixbundle-app-installer.png",
+    "Img/Windows/microsoft-app-installer-microsoft-store.png",
+    "Img/Windows/appx-install-error-0x800b0100.png",
+    "Img/Windows/install-appx-powershell-windows-10.png",
+    "Img/Windows/confirm-uwp-apps-windows-10-sideload.png",
+    "Img/Windows/allow-windows-10-appx-sideload.png",
+    "Img/Windows/appx-appxbundle-install-locked.png",
+    "Windows/soft/Alt App Installer.md",
+    "files/alt.app.installer.exe",
+    "Img/Windows/226940878-11cfb8ca-074e-4876-8a38-142559f5116b.png",
+    "Windows/soft/QuickLook.md",
     "Windows/soft/UniGetUI.md",
     "Windows/soft/WingetUI.md",
-    "index.md",
     "files/wingetui-3-1-1.exe",
-    "Windows/soft/QuickLook.md",
     "Windows/soft/WinUtil.md",
     "Windows/soft/AutoLogon Windows.md",
-    "Img/Windows/winget_9.png",
-    "Img/Windows/UniGetUI_2.png",
     "files/UniGetUI.Installer.exe.ppdb",
     "files/UniGetUI.Installer.exe",
     "cross-platform/Rambox.md",
@@ -209,32 +224,18 @@
     "files/autologon_win.zip",
     "files/autologon.zip",
     "files/AutoLogon.zip",
-    "Img/Windows/Title-Screen.png",
-    "Img/Windows/wingetUI-1-1024x1024.jpg",
     "Obsidian/plugins/remotely-sync.md",
     "Obsidian/plugins/obsidian-git.md",
     "MacOS/articles/13 вариантов загрузки Mac для особых случаев.md",
-    "cache/mac_boot_options_13.jpg",
-    "cache/mac_boot_options_5.jpg",
-    "cache/mac_boot_options_3.jpg",
-    "cache/mac_boot_options_11.jpg",
-    "cache/mac_boot_options_10.jpg",
-    "cache/mac_boot_options_9.jpg",
     "cache",
-    "Папка",
     "MacOS/soft/PopClip.md",
     "MacOS/soft/Sensei.md",
     "MacOS/soft/Magnet.md",
     "cross-platform/LocalSend.md",
     "Без названия.md",
-    "cross-platform",
     "MacOS/soft/OpenCore Legacy Patcher.md",
     "Linux/soft/Без названия.md",
     "Linux/articles/Без названия.md",
-    "Windows/articles/Без названия.md",
-    "MacOS/articles/Что такое SIP и как его отключить?.md",
-    "MacOS/articles/Ошибки при установке приложений на Мак.md",
-    "MacOS/articles/Отключение функции Gatekeeper в macOS.md",
-    "MacOS/articles/Добавление цифровой подписи.md"
+    "MacOS/articles/Что такое SIP и как его отключить?.md"
   ]
 }
