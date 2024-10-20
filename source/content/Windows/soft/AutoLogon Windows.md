@@ -5,10 +5,11 @@ Autologon достаточно прост в использовании. Про�
 
 ---
 
-![[AutoLogonUtil.zip]]
+Скачать: [AutoLogonUtil](AutoLogonUtil.zip)
 
 ---
 
-![[autologon_win.zip]]
+Скачать: [AutoLogonWin](autologon_win.zip)
+
 
 
