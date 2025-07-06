@@ -1,9 +1,7 @@
 ---
-tags:
-  - Obsidian
-  - Git
-  - Plugins
+{"publish":true,"created":"2024-12-08T12:44:54.000+01:00","modified":"2025-07-06T23:51:16.484+02:00","tags":["Obsidian","Git","Plugins"],"cssclasses":""}
 ---
+
 
 
 Плагин сообщества для Obsidian.md для управления вашим хранилищем с помощью Git. 

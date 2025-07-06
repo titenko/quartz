@@ -1,4 +1,4 @@
-![[UniGetUI_2.png]]
+![[Img/Windows/UniGetUI_2.png]]
 
 Основная цель этого проекта — создание интуитивно понятного графического интерфейса для наиболее распространенного интерфейса командной строки. менеджеры пакетов для Windows 10 и Windows 11, такие как  Winget, Scoop, Chocolatey, Pip, Npm, .NET Tool и PowerShell Gallery.
 

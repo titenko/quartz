@@ -1,13 +1,10 @@
 ---
-link: https://github.com/mjishnu/alt-app-installer
-tags:
-  - Windows
-  - Утилиты
-  - Git
+{"publish":true,"created":"2024-12-08T12:44:54.000+01:00","modified":"2025-07-06T23:51:16.575+02:00","tags":["Windows","Утилиты","Git"],"cssclasses":""}
 ---
+
 Программа для загрузки и установки приложений из магазина Microsoft Store
 
-![[226940878-11cfb8ca-074e-4876-8a38-142559f5116b.png]]
+![[Img/Windows/226940878-11cfb8ca-074e-4876-8a38-142559f5116b.png]]
 
 **Функции**
 

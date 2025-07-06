@@ -1,6 +1,6 @@
 Если вы скачали какое-либо приложение Windows 11/10 с расширением MSIXBundle или MSIX, но оно не открывается и не устанавливается автоматически по двойному клику, проблему можно решить.
 
-В этой простой инструкции о том, как установить пакет приложения в формате MSIXBundle в Windows 11 и Windows 10 — используя установщик приложений от Майкрософт или команду PowerShell. На близкую тему: [[Как установить Appx и AppxBundle в Windows 11 и Windows 10]]
+В этой простой инструкции о том, как установить пакет приложения в формате MSIXBundle в Windows 11 и Windows 10 — используя установщик приложений от Майкрософт или команду PowerShell. На близкую тему: [[Windows/articles/Как установить Appx и AppxBundle в Windows 11 и Windows 10]]
 
 ## Использование установщика приложений для установки MSIXBUNDLE
 
@@ -12,13 +12,13 @@
 
 1. Откройте Microsoft Store, в строке поиска введите «App Installer» или «Установщик приложения».
 
-![[microsoft-app-installer-microsoft-store.png]]
+![[Img/Windows/microsoft-app-installer-microsoft-store.png]]
 
 2. Установите приложение.
 3. После установки просто запустите файл MSIXBundle.
 4. Вы увидите предложение установщика выполнить установку приложения — нажмите кнопку «Установить» для установки.
 
-![[install-msixbundle-app-installer.png]]
+![[Img/Windows/install-msixbundle-app-installer.png]]
 
 **Вы можете вручную скачать App Installer в виде APPXBundle следующим образом:**
 
@@ -27,7 +27,7 @@
    в поле URL и выберите канал Retail, нажмите кнопку подтверждения.
 3. Скачайте и установите файл _Microsoft.DesktopAppInstaller_ с расширением _.appxbundle_ — лучше нажать по нему правой кнопкой мыши и выбрать пункт «Сохранить ссылку как», простое нажатие не всегда срабатывает для скачивания.
 
-![[download-microsoft-app-installer-appxbundle.png]]
+![[Img/Windows/download-microsoft-app-installer-appxbundle.png]]
 
 ## Установка в Windows PowerShell
 
@@ -45,11 +45,11 @@ Add-AppxPackage -Path путь_к_файлу.msixbundle
    
 1. Нажмите Enter и дождитесь завершения установки приложения.
 
-![[install-msixbundle-powershell.png]]
+![[Img/Windows/install-msixbundle-powershell.png]]
 
 Готово, пакет приложения MSIXBundle или приложение MSIX будет установлено на вашем компьютере.
 
 ---
 ## Установка в Alt App Installer
 
-Так же скачанный App Installer в виде APPXBundle можно установить при помощи: [[AltAppInstaller]]
+Так же скачанный App Installer в виде APPXBundle можно установить при помощи: [[Windows/soft/AltAppInstaller]]

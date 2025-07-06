@@ -1,5 +1,5 @@
 
-![[OpenCorePatcher.png]]
+![[Img/MacOS/OpenCorePatcher.png]]
 
 ### Испытайте macOS так же, как и раньше
 
